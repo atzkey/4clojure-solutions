@@ -1,6 +1,6 @@
 # My solutions to 4clojure problems
 
-Hi, [I am @atzkey there, in case you're interested how I'm doing](http://4clojure.com/user/atzkey)
+Hi, [I am @atzkey there](http://4clojure.com/user/atzkey), in case you're interested how I'm doing
 
 ## Scraper usage
 ### Piped
